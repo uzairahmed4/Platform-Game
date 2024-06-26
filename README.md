@@ -21,4 +21,10 @@ Samurai Runner is an exciting 2D platform game inspired by classic side-scrollin
 - Right Arrow: Move right.
 - Spacebar: Jump.
 - X: Attack.
-Credits
+
+## License
+This project is licensed under the [MIT License](./LICENSE.txt).
+
+## Contact
+For any questions, feedback, or collaborations, feel free to reach out:
+- Email: uzairahmedrak@gmail.com
